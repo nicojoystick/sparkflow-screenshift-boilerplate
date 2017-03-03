@@ -108,4 +108,7 @@ This is the **Inspector Panel** and this panel is one of the most important part
 That tool highlighted above is called the **Absolute Anchoring** tool. Remember i mentioned the process is "somewhat familiar"? Well, that's because we already seen this tool on graphics/imaging softwares before.
 
 ###How Does It Work?
+The logic is pretty simple :P
+
+- Say you want your element to always **stick** to the left of the user's screen/device, **pin** it to the left by setting its anchor to the left.
 
