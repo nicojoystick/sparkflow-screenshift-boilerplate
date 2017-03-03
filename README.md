@@ -1,4 +1,4 @@
-#Sparkflow Boilerplate Codes
+#Sparkflow ScreenShift JS/CSS Boilerplate
 Javascript and CSS boilerplate codes when creating **Sparkflow ScreenShift** ads.
 
 ##How To Use
