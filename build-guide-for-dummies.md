@@ -75,5 +75,14 @@ Below is an example of the **banner**(collapsed) view and how it looks like once
 
 We need to do the same thing for the **resize**(expanded) views of the creative. So that's also **3 modes** (mobile, tablet, desktop). It's pretty straighforward, just make sure to populate the whole canvas to prevent any "blank" space once you preview the creative.
 
+![Mobile Expanded]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/rT31rnezD8x06aU6ALVYJlDvExUoeZ/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-11-44.jpg?Expires=1488633121&Signature=DDwVFa7wcrma5i5Eyxy8Ql4ZgV4ECcCBPKJEmtzb2zFmcrzCGRNX~XZVYPV5U0khtoE68WdtHXiyY9q9r3RqVVT1U7yQPHKnyJ9SZIlzL~3YDBZPqHyQsTONg9Cq--AZyogkJ9~ok7elWHrO1SHh~tYPOcoT2aVqXgfcMAaVRxly7OUuwc5rR~EYvse22lIr3I5HCT3QqTQ0M6YRPGd2dxppWn7E~uw1Zd98TyP2ER2G0PkvvcFf6NcW1rVTF7Q38OtEpQO4zz-i57ynoKBoSpd~nYwCfO2Mm084lu5rbjnylOfr2nZUmgdtsLSDqtH2t~frk085d0r4mssPArIm8g__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
+![Tablet Expanded]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/DaaBzJBexTDpj6T2ihRAgwh3pF2uBt/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-12-49.jpg?Expires=1488633194&Signature=NL0tDBXgc~XxT-ecOrv9rCK1Y2grxb~enf52ZPlybHho927avRg3QC91XrHlx99ycAvBjBr0qpgBMmA92VbFZUbj8ILnB4nWn~PW065A0wXpkLBOosW6UMlvdxj4HRzJwXNywEyqTcjDZ~gyAy~dMjQXzwNDY~i46Y-9ZWBBPXHeEyfc26lmAE2iTmynMCF15HopAb2Euafu1S0lo0yc7-a7Lqkn5jhH245pKysKCZBpQiBGyyIg2gelxgSUB32zukY4NR9WaSb-en~5mL6-rmoYh0CeeDI13Y3aezsz~V3uwOBtSMrH8wT2B4ccoyTLgxuEIe9~J0lClL~rrS7M6Q__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
+![Desktop Expanded]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/ad5GPODMoX8ta4hwX5d7TK5jWlOpuQ/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-13-44.jpg?Expires=1488633239&Signature=NpOU37wL0RaGXZ~R7JFIZe0TEuNKvkxpSqaekHI2Ph8tXD93KtnjxxSZArLThLDWCFd0tnyuagxN0XhwZNMsiS7J~ov1oNBHNXWpegGf3OXeKaB37pIm0PaQjb8I7xevrwHlrTdJl0TwG72jbmp8xAIwaETgKiuGgLOABS3UNz1jkCnJSczLcNdS8JbIICZ-DekSH8hxd-eniC7wRXWyiwRassNDdz-wRJ0cHIprlVyyH80QKz0N4BELUUvN~D4jBL3EpRMSjb8rDxWuNCe1H8akypUGmfjDVeNcTCArBw31yBQNZ31d0QSbFPVt6~bhGsFsXFpb6TRZ7NIN52a7UA__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
 
 
