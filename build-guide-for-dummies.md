@@ -48,7 +48,7 @@ Where's #10 you ask? I purposely left that out in the screenshot because that pa
 #Let's Build!
 Now that we have the UI out of the way. Let's try to build something!
 
-**Sparkflow's ScreenShift** format is basically a **responsive** take on expandable units we're used in seeing before. Like what I've mentioned earlier, the build process is a bit different compared to what we're used in doing (specially if you're a custom coder). What's the difference you ask?
+**Sparkflow's ScreenShift** format is basically a **responsive** take on expandable units. Like what I've mentioned earlier, the build process is a bit different compared to what we're used in doing (specially if you're a custom coder). What's the difference you ask?
 
 ###You layout everything in the platform.
 
@@ -93,10 +93,12 @@ Once you think everything is in the right place. Let's make the elements respons
 You now have everything setup in terms of layout, how can we make our creative responsive? 
 The usual industry approach to any responsive project is by using media queries and a couple of javascript responsive techniques. But in Sparkflow, it's a bit different and somewhat familiar at the same time.
 
-###Introducing The Anchor Tool
+###Introducing Inspector Panel
 
-I'm sure by now, you are already familiar with the **window** that pops up when you are assembling the layout of your creative in the earlier steps of this guide. Just in case you forgot, here's how it looks like.
+I'm sure by now, you are already familiar with the **window** that pops up when you were assembling the layout of your creative in the earlier steps of this guide. Just in case you forgot, here's how it looks like.
 
-![Info Panel]
+![Inspector Panel]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/8WdpvPF2R1gUugrPjBO5ByeVqAtddb/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-37-34.jpg?Expires=1488634674&Signature=a7RRxq2hQAEBg-bi~~z7PrTAuD-Xul2DT8hRfCrogaVZw3urOBlZuu5Ve3mZxtN--9zsyr2bNFh7rigSbQRAk7MHVnK58gyVPTLRR0s3e4e2QaUkf-BAANGJ-kpgQ5HmsLQJRjTj2FpFE2N~cLlCks80LvkLZpRQB6ycgQ4bW6NSfFW4p8CANdtvGSz9Qi91OGl2V~9MjRo1bwVwd773GVZt4JITiIQZ2YgJzxgEB2yk1b79YtflnMh~-hJxzG3XYOnJUnmp1U1fUm-0DGmvqZ~VDunoE0-SQD3CFsuoZY1x5eKYJvpGyDumqwTV4hexaqkjXvdxW-FMV-QLsZoI-Q__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
+This is the **Inspector Panel** and this panel is one of the most important parts of the SF UI. It is the place where you name your elements so that you can target it via code later in this guide. This is also the window where you will make your creative's elements react to screen size thus making it responsive.
 
