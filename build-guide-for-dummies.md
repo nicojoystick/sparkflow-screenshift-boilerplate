@@ -25,3 +25,6 @@ This button opens Sparkflow's own JS editor. Although technically you can code h
 
 **5. CSS Editor**
 Like the JS editor above, I suggest sticking with your own code editor in coding your stylesheets.
+
+**6. Scene Button**
+This let's you create additional scenes in your creative that you can control using SF's API. Think of it as like the gotoAndStop('frame') back in our Flash days :P
