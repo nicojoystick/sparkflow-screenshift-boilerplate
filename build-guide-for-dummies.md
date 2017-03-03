@@ -42,7 +42,7 @@ Standard text tool. I only use this for one thing only. It has the ability to up
 **10. Inspector Panel**
 Where's #10 you ask? I purposely left that out in the screenshot because that panel contains features that can only be used once you're actually building your creative. I just don't want to overwhelm you with too much information :D
 
->TIP: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time ;)
+>TIP: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time :laughing:
 
 
 #Let's Build!
@@ -52,7 +52,7 @@ Now that we have the UI out of the way. Let's try to build something!
 
 ###You layout everything in the platform.
 
-Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup when using this format. At first it's a bit "weird" but once you get the hang of it, it's pretty ok ;)
+Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup when using this format. At first it's a bit "weird" but once you get the hang of it, it's pretty ok :smile:
 
 ##Step 1: Upload Design Assets
 What I mostly do is I first extract all of the design elements in the creative's PSD mockup. Once that's done, I just quickly grab all of the extracted files and drag it inside SF's studio window.
@@ -87,7 +87,7 @@ We need to do the same thing for the **resize**(expanded) views of the creative.
 ![Desktop Expanded]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/ad5GPODMoX8ta4hwX5d7TK5jWlOpuQ/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-13-44.jpg?Expires=1488633239&Signature=NpOU37wL0RaGXZ~R7JFIZe0TEuNKvkxpSqaekHI2Ph8tXD93KtnjxxSZArLThLDWCFd0tnyuagxN0XhwZNMsiS7J~ov1oNBHNXWpegGf3OXeKaB37pIm0PaQjb8I7xevrwHlrTdJl0TwG72jbmp8xAIwaETgKiuGgLOABS3UNz1jkCnJSczLcNdS8JbIICZ-DekSH8hxd-eniC7wRXWyiwRassNDdz-wRJ0cHIprlVyyH80QKz0N4BELUUvN~D4jBL3EpRMSjb8rDxWuNCe1H8akypUGmfjDVeNcTCArBw31yBQNZ31d0QSbFPVt6~bhGsFsXFpb6TRZ7NIN52a7UA__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
-Once you think everything is in the right place. Let's make the elements responsive! Oh! and did I mention we will not be using any media queries :D
+Once you think everything is in the right place. Let's make the elements responsive! Oh! and did I mention we will not be using any media queries :smile:
 
 ##Step 3: Making It Responsive
 You now have everything setup in terms of layout, how can we make our creative responsive? 
