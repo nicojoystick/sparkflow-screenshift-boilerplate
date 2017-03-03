@@ -15,4 +15,13 @@ But before anything else. Let's try to quickly familiarize ourselves with the **
 All elements/components dragged to your stage will be shown and can also be re-arranged using this panel.
 
 **2. Views Panel**
-ScreenShift format has to views. 1 for collapsed and 1 for expanded. You have to provide separate layouts for the 2 views and this is the button to toggle between those view.
+ScreenShift format has two views. 1 for collapsed and 1 for expanded. You have to provide separate layouts for the 2 views and this is the button to toggle between those view.
+
+**3. Modes Panel**
+The 2 views mentioned above are categorized into **3 modes** (desktop, tablet, and mobile). SS units are considered responsive so you have to setup **3 different layouts** to cater to different types of devices.
+
+**4. Javascript Editor**
+This button opens Sparkflow's own JS editor. Although technically you can code here, I highly suggest coding using your own code editor for safety purposes and to avoid losing your work.
+
+**5. CSS Editor**
+Like the JS editor above, I suggest sticking with your own code editor in coding your stylesheets.
