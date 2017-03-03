@@ -42,7 +42,7 @@ Standard text tool. I only use this for one thing only. It has the ability to up
 **10. Inspector Panel**
 Where's #10 you ask? I purposely left that out in the screenshot because that panel contains features that can only be used once you're actually building your creative. I just don't want to overwhelm you with too much information :D
 
->TIP: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time :laughing:
+>TIP: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time.
 
 
 #Let's Build! Part 1 - Setting Everything Up
@@ -116,7 +116,7 @@ The logic is pretty simple.
 - What if you want the client's logo to always be visible on the **bottom right** of the user's screen/device? Then set the logo's anchor point to the bottom right.
 - You get the idea :sunglasses:
 
-Now, do this to all the graphical elements in your creative. Make sure all the elements you want to **stick into view** have an anchor setup. Once that's done, we can start with the fun part. **Coding your creative** :smile:
+Now, do this to all the graphical elements in your creative. Make sure all the elements you want to **stick into view** have an anchor setup. Once that's done, we can start with the fun part. **Coding your creative** :laughing:
 
 #Let's Build! Part 2 - Coding Your Creative
 >This part of the series is currently in progress.
