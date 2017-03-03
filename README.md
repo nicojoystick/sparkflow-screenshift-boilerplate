@@ -1,7 +1,7 @@
 #Sparkflow ScreenShift Boilerplate
 Javascript and CSS boilerplate codes when creating **Sparkflow ScreenShift** creatives.
 
-##Changelog:
+##Changelog
 
 ###Feature
 - Automatically adds close button when creative is viewed on mobile landscape.
