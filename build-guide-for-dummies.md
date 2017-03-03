@@ -91,7 +91,7 @@ Once you think everything is in the right place. Let's make the elements respons
 
 ##Step 3: Making It Responsive
 You now have everything setup in terms of layout, how can we make our creative responsive? 
-The usual industry approach to any responsive project is by using media queries and a couple of javascript responsive techniques. But in Sparkflow, it's a bit different and somewhat familiar at the same time.
+The usual industry approach to any responsive project is by using media queries and a couple of javascript responsive techniques. But in Sparkflow, it's a bit different (and somewhat familiar) at the same time.
 
 ###Introducing Inspector Panel
 
@@ -104,4 +104,8 @@ This is the **Inspector Panel** and this panel is one of the most important part
 
 ![Anchor Tool]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/7hfsfS6nefcMfa6eaAgwLkDcod1uER/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-53-32.jpg?Expires=1488635654&Signature=OO-EaGtvL9JP8ftYJEdVU2jkpi5PkD9FB-o0l0RNk7dgJ8CgM3tx1BL0fpdgFrQaF1Xhhlq0S3ie7C65ylpQTJcgmj8nhVblWvyxeGiKKX465qshRA1iPhAV-hrPqThWN-wYMdmlIqDSpXnzhH8b5tK3j4GMAHKPSFNWuGK0ZZPoqGXQ9-KwVp-OFcKiDYrMKm4AHqFgP5JhAxA1O9jQl8oO0E0f5wGsn0-5OCaqg6Vbcmv10WPznjPrS9kXHfCn4RcGu4Q1EBs6u9FZ1ohT51vcucL7mP5WC5ls9Nt-kAWVbaPBf0gKukULrfBZeHi7eytW6yzPbQfU5-Z70rY2gA__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
+That tool highlighted above is called the **Absolute Anchoring** tool. Remember i mentioned the process is "somewhat familiar"? Well, that's because we already seen this tool on graphics/imaging softwares before.
+
+###How Does It Work?
 
