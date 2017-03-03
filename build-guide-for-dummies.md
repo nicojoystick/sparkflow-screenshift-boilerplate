@@ -45,5 +45,7 @@ Standard text tool. I only use this for one thing only. It has the ability to up
 #Let's Build!
 Now that we have the UI out of the way. Let's try to build something!
 
-**Sparkflow's ScreenShift** format is basically a responsive take on expandable units we are used in seeing before. Like what I've mentioned earlier, the build process is a bit different compared to what you're used in doing (specially if you're a custom coder).
+**Sparkflow's ScreenShift** format is basically a **responsive** take on expandable units we're used in seeing before. Like what I've mentioned earlier, the build process is a bit different compared to what we're used in doing (specially if you're a custom coder). What's the difference you ask?
+
+###You layout everything in the platform.
 
