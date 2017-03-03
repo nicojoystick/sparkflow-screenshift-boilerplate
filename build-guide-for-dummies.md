@@ -52,4 +52,7 @@ Now that we have the UI out of the way. Let's try to build something!
 Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup when using this format. At first it's a bit "weird" but once you get the hang of it, it's pretty ok ;)
 
 ##Step 1: Upload Design Assets
+What I mostly do is I first extract all of the design elements in the creative's PSD mockup. Once that's done, I just quickly grab all of the extracted files and drag it inside SF's studio window.
 
+![Upload Assets]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/duaVcuKNeY75obLqBsa0Ln7tstrVZL/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B20-48-52.jpg?Expires=1488631774&Signature=MvBWRWwxk1yAtZiOcais47RnT5XpAXLDwtBKpbXy3WxlsVCxcV8FgpowdFAVoy~Pw7dlfQ6CtoP6f0j2SCXl3dK7YkXPSlVame1Dnf8-9q7rVtEJ9BOQwls4zC1TAgkPrNp3bu7~dlPIVT589DHSH4FO2EFGf8uN9JpLBxgoe4OCBxPT-GcrAbxek7kzFW0ARfiYI3BWwIFmKVDVOMYN1nerkrYygBBIeLNwmZgCy-7UCw~HIS3RMeinKTvFOBeaC9YSnf8g420hkC4kHIpK-kAU33lN3w95ty7LJXRgPd566ZbMkg4yYrEta~BqdjK3jhCU3~WetLplUwX-Z1QzYw__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
