@@ -87,6 +87,8 @@ We need to do the same thing for the **resize**(expanded) views of the creative.
 Once you think everything is in the right place. Let's make the elements responsive! Oh! and did I mention we will not be using any media queries :D
 
 ##Step 3: Making It Responsive
-You now have everything setup in terms of layout. Now how can we make our creative responsive? 
-The usual industry approach to any responsive project is by using media queries and a couple of javascript responsive techniques. But in Sparkflow, it's a bit different :P
+You now have everything setup in terms of layout, how can we make our creative responsive? 
+The usual industry approach to any responsive project is by using media queries and a couple of javascript responsive techniques. But in Sparkflow, it's a bit different and familiar at the same time.
+
+###Introducing The Anchor Tool
 
