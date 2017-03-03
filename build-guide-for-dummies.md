@@ -72,5 +72,7 @@ Below is an example of the **banner**(collapsed) view and how it looks like once
 ![Desktop Collapsed]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/4sc9uSrtV5WeXKWugD18v68KpChPCh/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-04-27.jpg?Expires=1488632680&Signature=XCQaj28oHs2pM1yj7~kjtoPjwFrYyYd5lma9cR3OVTLufJvIC9IDyM13~LnpfdO-lb~UfLza6s1GyfEg9j8LvezRLG3W3Qk~Uo9MznwD--LME-4DgdSoesJOHe9caJh9gfw7feceBHyUcHWCh28LNHse~eNsshZI2iATZ-3CM4pibVSDNTice1i7s919HQNoQjw9yna929wZH3OKE9EwHCxiGPM6yvQhVg0KTt21ED-Tf2Y5jYJxNO6QG26I9nuVtFmm9K~kjlKHs9g0k4uO~e2qZ9bWZj6cv8oE4SaHxHKPjCIIZ6wqTuG1~XDSx4evj32l4UJVrTmsQhasm552qg__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
+We need to do the same thing for the **resize**(expanded) views of the creative. So that's also 3 modes (mobile, tablet, desktop).
+
 
 
