@@ -111,4 +111,6 @@ That tool highlighted above is called the **Absolute Anchoring** tool. Remember 
 The logic is pretty simple :P
 
 - Say you want your element to always **stick** to the left of the user's screen/device, **pin** it to the left by setting its anchor to the left.
+- What if you want the client's logo to always be visible on the bottom right of the user's screen/device? Then set the logo's anchor point to the bottom right.
+- I'm sure you get the idea :P
 
