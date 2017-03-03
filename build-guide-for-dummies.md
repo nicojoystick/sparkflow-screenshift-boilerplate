@@ -49,3 +49,5 @@ Now that we have the UI out of the way. Let's try to build something!
 
 ###You layout everything in the platform.
 
+Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup in this format.
+
