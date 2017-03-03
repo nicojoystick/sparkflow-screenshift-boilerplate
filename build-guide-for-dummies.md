@@ -86,5 +86,5 @@ We need to do the same thing for the **resize**(expanded) views of the creative.
 
 Once you think everything is in the right place. Let's make the elements responsive! Oh! and did I mention we will not be using any media queries :D
 
-
+##Step 3: Making It Responsive
 
