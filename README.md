@@ -2,7 +2,7 @@
 Javascript and CSS boilerplate codes when creating **Sparkflow ScreenShift** creatives.
 
 ##Changelog:
-- Added documentation.
+- Added comments to explain what each line of code does.
 - Automatically adds close button when creative is viewed on mobile landscape.
 - Optimized the codes so it's much more easier to read & work with.
 
@@ -44,4 +44,4 @@ function startAd () {
 > The CSS boilerplate currently contains universal fixes and the **Please rotate...** message when your creative is viewed in mobile landscape.
 
 ##Sparkflow API Documentation
-The API documentation is a bit difficult to find specially for first time Sparkflow users - so just adding it here in case you need it. **http://wiki.sparkflow.net/doc/** (You need a sparkflow account to view this).
+The API documentation is a bit difficult to find specially for first time Sparkflow users - so just adding it here in case you need it. **http://wiki.sparkflow.net/doc/** *(You need a sparkflow account to view this).*
