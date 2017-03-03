@@ -39,7 +39,7 @@ Usable widgets like video players, image sliders, etc can be found here.
 **9. Text Tool**
 Standard text tool. I only use this for one thing only. It has the ability to upload webfonts in your creative.
 
->Quick Tip: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time ;)
+>TIP: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time ;)
 
 
 #Let's Build!
@@ -58,3 +58,5 @@ What I mostly do is I first extract all of the design elements in the creative's
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/duaVcuKNeY75obLqBsa0Ln7tstrVZL/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B20-48-52.jpg?Expires=1488631774&Signature=MvBWRWwxk1yAtZiOcais47RnT5XpAXLDwtBKpbXy3WxlsVCxcV8FgpowdFAVoy~Pw7dlfQ6CtoP6f0j2SCXl3dK7YkXPSlVame1Dnf8-9q7rVtEJ9BOQwls4zC1TAgkPrNp3bu7~dlPIVT589DHSH4FO2EFGf8uN9JpLBxgoe4OCBxPT-GcrAbxek7kzFW0ARfiYI3BWwIFmKVDVOMYN1nerkrYygBBIeLNwmZgCy-7UCw~HIS3RMeinKTvFOBeaC9YSnf8g420hkC4kHIpK-kAU33lN3w95ty7LJXRgPd566ZbMkg4yYrEta~BqdjK3jhCU3~WetLplUwX-Z1QzYw__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
 Once all images are uploaded. You can now start assembling your creative's layout.
+
+>TIP: Remember the **2 views** and **3 modes** I've mentioned earlier on our UI primer? You need to make sure all **3 modes** of the **banner**(collapsed) and **resized**(resized) views of your creative are properly laid out. Use the PDF guide provided by your producer to layout all **3 modes** of your creative.
