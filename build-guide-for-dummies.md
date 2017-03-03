@@ -45,7 +45,7 @@ Where's #10 you ask? I purposely left that out in the screenshot because that pa
 >TIP: I suggest creating a "test unit" and playing around with these tools first. Most of them are pretty straightforward and I'm sure you will get the hang of it in no time :laughing:
 
 
-#Let's Build!
+#Let's Build! Part 1 - Setting Everything Up
 Now that we have the UI out of the way. Let's try to build something!
 
 **Sparkflow's ScreenShift** format is basically a **responsive** take on expandable units. Like what I've mentioned earlier, the build process is a bit different compared to what we're used in doing (specially if you're a custom coder). What's the difference you ask?
@@ -117,4 +117,6 @@ The logic is pretty simple.
 - You get the idea :sunglasses:
 
 Now, do this to all the graphical elements in your creative. Make sure all the elements you want to **stick into view** have an anchor setup. Once that's done, we can start with the fun part. **Coding your creative** :smile:
+
+#Let's Build! Part 2 - Coding
 
