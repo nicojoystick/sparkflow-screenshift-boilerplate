@@ -61,7 +61,7 @@ Once all images are uploaded. You can now start assembling your creative's layou
 
 >TIP: Remember the **2 views** and **3 modes** I've mentioned earlier on our UI primer? You need to make sure all **3 modes** of the **banner**(collapsed) and **resized**(resized) views of your creative are properly laid out. Use the PDF guide provided by your producer to layout all **3 modes** of your creative.
 
-Below is an example of the **banner**(collapsed) view and how it looks like once everything is laid out. Focus on the **modes** indicator in the UI.
+Below is an example of the **banner**(collapsed) view and how it looks like once everything is laid out. Pay attention on the **modes** indicator in the UI.
 
 ![Mobile Collapsed]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/Os2RLxYyHflNZ4Kd6jTXuG7zcIVzg1/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-00-52.jpg?Expires=1488632473&Signature=B~X5yeGHPgoiA0FyAIFncJclJio9xbdRrqU~UHXAEQrgVEJBBTj7l60iG8KUDNo1aIcZlpdbdZNTE6DKG69ZP~20SngkTxc0CRbUs3VF3d9bbhn4E-sfx~TCUrPQwaIdQ~1nk0sl9Iowyoyd7BMqw5FP-p7rSQ8PGJZUNSq-OT7yD82AkNtTKRvraB0BKH6DatLDdHmXktqPNGewPoJwqtVLXUUHyovRSpXY9PGWeTYW00zifuSmKYyTw1At4wkipfgw7SraVQM7eJlpbvwwDPw4ZgpigbEvoBykT35qSrU308MvGEXEYIu8SwFrpnmsji0kka6EZAuxqX0DIgM21A__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
