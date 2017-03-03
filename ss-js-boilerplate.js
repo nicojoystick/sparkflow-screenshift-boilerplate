@@ -76,7 +76,7 @@ $(document).on('adSceneChange adResize', function () {
  * --------------------------
  * Switch to scene
  * --------------------------
- * Use this to easily swith and 
+ * Use this to easily switch and 
  * change scenes in your creative.
  */
 function switchToScene (sceneName) {
@@ -95,10 +95,7 @@ function switchToScene (sceneName) {
 var canResize = true;
 
 /**
- * Call your creative's main init
- * function here. This is basically 
- * the event to use if you want to
- * start your ad.
+ * This event starts your creative.
  */
 $(document).on('adReady', function () {
 
@@ -112,7 +109,8 @@ $(document).on('adReady', function () {
  *
  * QUICK TIP: You should also call "mraid.cancelAutoClose"
  * in any clickable element in your creative to override
- * the "mraid.setAutoClose" being called on "adReady" and "adClick".
+ * the "mraid.setAutoClose" being called on "adReady" and "adClick"
+ * on line# 126.
  */
 $(document).on('adInteraction', function () {
 
