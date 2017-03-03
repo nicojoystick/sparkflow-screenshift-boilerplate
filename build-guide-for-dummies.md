@@ -118,5 +118,6 @@ The logic is pretty simple.
 
 Now, do this to all the graphical elements in your creative. Make sure all the elements you want to **stick into view** have an anchor setup. Once that's done, we can start with the fun part. **Coding your creative** :smile:
 
-#Let's Build! Part 2 - Coding
+#Let's Build! Part 2 - Coding Your Creative
+>This part of the series is currently in progress.
 
