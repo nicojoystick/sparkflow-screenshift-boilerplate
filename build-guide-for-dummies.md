@@ -61,9 +61,16 @@ Once all images are uploaded. You can now start assembling your creative's layou
 
 >TIP: Remember the **2 views** and **3 modes** I've mentioned earlier on our UI primer? You need to make sure all **3 modes** of the **banner**(collapsed) and **resized**(resized) views of your creative are properly laid out. Use the PDF guide provided by your producer to layout all **3 modes** of your creative.
 
-Below is an example of how it's going to look like once everything is laid out.
+Below is an example of the **banner**(collapsed) view and how it looks like once everything is laid out. Focus on the **modes** indicator in the UI.
 
 ![Mobile Collapsed]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/Os2RLxYyHflNZ4Kd6jTXuG7zcIVzg1/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-00-52.jpg?Expires=1488632473&Signature=B~X5yeGHPgoiA0FyAIFncJclJio9xbdRrqU~UHXAEQrgVEJBBTj7l60iG8KUDNo1aIcZlpdbdZNTE6DKG69ZP~20SngkTxc0CRbUs3VF3d9bbhn4E-sfx~TCUrPQwaIdQ~1nk0sl9Iowyoyd7BMqw5FP-p7rSQ8PGJZUNSq-OT7yD82AkNtTKRvraB0BKH6DatLDdHmXktqPNGewPoJwqtVLXUUHyovRSpXY9PGWeTYW00zifuSmKYyTw1At4wkipfgw7SraVQM7eJlpbvwwDPw4ZgpigbEvoBykT35qSrU308MvGEXEYIu8SwFrpnmsji0kka6EZAuxqX0DIgM21A__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
-Collapsed mobile.
+![Tablet Collapsed]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/CSbwWsZ9howqGSiOugml8X3HUmTTVO/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-03-44.jpg?Expires=1488632642&Signature=cxI46AmVNhS2XQC5HrTKp32dF9W1EEHwtQC9e86p3TPBX0Hel31DiwtPgeIBkW2pDtxh-FZZ-OUotLNBUMoLI3VCH-9eRqF3osKFKI3YSc8sj2xhBjrTwLT4fYqcN8iWHnJyajdpQA83h7r3xTNv-FiX53FF1B~BtgtKD84w8HmN5acR1PZE4oPosOo6up0fqB4ZdsizRQV3yRwTZbU8FZ85ZvjVuqhoF22eZOCG48uoEsxq7UQtiWN1xvPwyw~fFh4RTBxLaVBvzcSQlIn2kr12GoFgoiUaYIlVSDl11FFy5EBG83pdLOl2L-TdXiqsxkb3euuakQly3BmBm1rqrg__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
+![Desktop Collapsed]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/4sc9uSrtV5WeXKWugD18v68KpChPCh/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-04-27.jpg?Expires=1488632680&Signature=XCQaj28oHs2pM1yj7~kjtoPjwFrYyYd5lma9cR3OVTLufJvIC9IDyM13~LnpfdO-lb~UfLza6s1GyfEg9j8LvezRLG3W3Qk~Uo9MznwD--LME-4DgdSoesJOHe9caJh9gfw7feceBHyUcHWCh28LNHse~eNsshZI2iATZ-3CM4pibVSDNTice1i7s919HQNoQjw9yna929wZH3OKE9EwHCxiGPM6yvQhVg0KTt21ED-Tf2Y5jYJxNO6QG26I9nuVtFmm9K~kjlKHs9g0k4uO~e2qZ9bWZj6cv8oE4SaHxHKPjCIIZ6wqTuG1~XDSx4evj32l4UJVrTmsQhasm552qg__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+
+
+
