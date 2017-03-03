@@ -95,10 +95,13 @@ The usual industry approach to any responsive project is by using media queries 
 
 ###Introducing Inspector Panel
 
-I'm sure by now, you are already familiar with the **window** that pops up when you were assembling the layout of your creative in the earlier steps of this guide. Just in case you forgot, here's how it looks like.
+I'm sure by now, you are already familiar with the **window** that pops up when you were assembling your creative's layout earlier. Just in case you forgot, here's how it looks like.
 
 ![Inspector Panel]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/8WdpvPF2R1gUugrPjBO5ByeVqAtddb/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-37-34.jpg?Expires=1488634674&Signature=a7RRxq2hQAEBg-bi~~z7PrTAuD-Xul2DT8hRfCrogaVZw3urOBlZuu5Ve3mZxtN--9zsyr2bNFh7rigSbQRAk7MHVnK58gyVPTLRR0s3e4e2QaUkf-BAANGJ-kpgQ5HmsLQJRjTj2FpFE2N~cLlCks80LvkLZpRQB6ycgQ4bW6NSfFW4p8CANdtvGSz9Qi91OGl2V~9MjRo1bwVwd773GVZt4JITiIQZ2YgJzxgEB2yk1b79YtflnMh~-hJxzG3XYOnJUnmp1U1fUm-0DGmvqZ~VDunoE0-SQD3CFsuoZY1x5eKYJvpGyDumqwTV4hexaqkjXvdxW-FMV-QLsZoI-Q__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
-This is the **Inspector Panel** and this panel is one of the most important parts of the SF UI. It is the place where you name your elements so that you can target it via code later in this guide. This is also the window where you will make your creative's elements react to screen size thus making it responsive.
+This is the **Inspector Panel** and this panel is one of the most important parts of the SF UI. It is the place where you name your elements so that you can target it via code later in this guide. This is also the window where you will make your creative's elements react to screen size thus making it responsive. **But how do we make it responsive?**
+
+![Anchor Tool]
+(https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/7hfsfS6nefcMfa6eaAgwLkDcod1uER/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-53-32.jpg?Expires=1488635654&Signature=OO-EaGtvL9JP8ftYJEdVU2jkpi5PkD9FB-o0l0RNk7dgJ8CgM3tx1BL0fpdgFrQaF1Xhhlq0S3ie7C65ylpQTJcgmj8nhVblWvyxeGiKKX465qshRA1iPhAV-hrPqThWN-wYMdmlIqDSpXnzhH8b5tK3j4GMAHKPSFNWuGK0ZZPoqGXQ9-KwVp-OFcKiDYrMKm4AHqFgP5JhAxA1O9jQl8oO0E0f5wGsn0-5OCaqg6Vbcmv10WPznjPrS9kXHfCn4RcGu4Q1EBs6u9FZ1ohT51vcucL7mP5WC5ls9Nt-kAWVbaPBf0gKukULrfBZeHi7eytW6yzPbQfU5-Z70rY2gA__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
