@@ -52,7 +52,7 @@ Now that we have the UI out of the way. Let's try to build something!
 
 ###You layout everything in the platform.
 
-Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup when using this format. At first it's a bit "weird" but once you get the hang of it, it's pretty ok :smile:
+Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup when using this format. At first, it's a bit "weird" but once you get the hang of it, it's pretty ok :smile:
 
 ##Step 1: Upload Design Assets
 What I mostly do is I first extract all of the design elements in the creative's PSD mockup. Once that's done, I just quickly grab all of the extracted files and drag it inside SF's studio window.
