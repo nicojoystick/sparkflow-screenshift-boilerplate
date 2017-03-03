@@ -84,5 +84,7 @@ We need to do the same thing for the **resize**(expanded) views of the creative.
 ![Desktop Expanded]
 (https://d1ro8r1rbfn3jf.cloudfront.net/ms_16555/ad5GPODMoX8ta4hwX5d7TK5jWlOpuQ/Dashboard%2B%25C2%25B7%2BSparkflow%2B2017-03-03%2B21-13-44.jpg?Expires=1488633239&Signature=NpOU37wL0RaGXZ~R7JFIZe0TEuNKvkxpSqaekHI2Ph8tXD93KtnjxxSZArLThLDWCFd0tnyuagxN0XhwZNMsiS7J~ov1oNBHNXWpegGf3OXeKaB37pIm0PaQjb8I7xevrwHlrTdJl0TwG72jbmp8xAIwaETgKiuGgLOABS3UNz1jkCnJSczLcNdS8JbIICZ-DekSH8hxd-eniC7wRXWyiwRassNDdz-wRJ0cHIprlVyyH80QKz0N4BELUUvN~D4jBL3EpRMSjb8rDxWuNCe1H8akypUGmfjDVeNcTCArBw31yBQNZ31d0QSbFPVt6~bhGsFsXFpb6TRZ7NIN52a7UA__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
 
+Once you think everything is in the right place. Let's make the elements responsive! Oh! and did I mention we will not be using any media queries :D
+
 
 
