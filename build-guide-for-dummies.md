@@ -51,3 +51,5 @@ Now that we have the UI out of the way. Let's try to build something!
 
 Yep, every single design assets needs to be assembled using their platform. We don't get to control the HTML markup when using this format. At first it's a bit "weird" but once you get the hang of it, it's pretty ok ;)
 
+##Step 1: Upload Design Assets
+
