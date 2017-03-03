@@ -110,9 +110,11 @@ This is the **Inspector Panel** and this panel is one of the most important part
 That tool highlighted above is called the **Absolute Anchoring** tool. Remember i mentioned the process is "somewhat familiar"? Well, that's because we already seen this tool on graphics/imaging softwares before.
 
 ###How Does It Work?
-The logic is pretty simple :P
+The logic is pretty simple.
 
 - Say you want your element to always **stick** to the **left** of the user's screen/device, pin it to the left by setting its anchor to the left.
 - What if you want the client's logo to always be visible on the **bottom right** of the user's screen/device? Then set the logo's anchor point to the bottom right.
 - You get the idea :sunglasses:
+
+Now, do this to all the graphical elements in your creative. Make sure all the elements you want to **stick into view** have an anchor setup. Once that's done, we can start with the fun part. **Coding your creative** :smile:
 
