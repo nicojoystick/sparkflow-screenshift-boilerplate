@@ -44,6 +44,32 @@ $.ajax({
 });
 
 /**
+ * --------------------------
+ * Setup Undertone Icon
+ * --------------------------
+ * Undertone icon location can be 
+ * controlled by changing the "corner"
+ * parameter.
+ *
+ * You can also change its color
+ * parameter to either "black" or "white".
+ */
+$.ajax({
+
+    url: '/sparkflow/formats/latest/utmark.min.js',
+    dataType: 'script',
+    cache: true,
+    success: function () {
+
+        UndertoneMark.init({
+            corner: 'bl',
+            opacity: 0.5,
+            color: 'black'
+        });
+    }
+});
+
+/**
  * -----------------------------------
  * Sync portrait and landscape views
  * -----------------------------------
