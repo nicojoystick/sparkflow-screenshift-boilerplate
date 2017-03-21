@@ -51,6 +51,8 @@ $.ajax({
  * controlled by changing the "corner"
  * parameter.
  *
+ * (tl = top left, br = bottom right, so on...)
+ *
  * You can also change its color
  * parameter to either "black" or "white".
  */
