@@ -315,7 +315,7 @@ function startAd() {
  */
 function myCreativeInit () {
 
-    // Code away!
+    // Code away!!!
 }
 
 
